@@ -17,7 +17,7 @@ export class WebFetchTool implements AgentTool {
   ): Promise<ToolResult> {
     try {
       const response = await fetch(params.url, {
-        headers: { "User-Agent": "AgentFlow/1.0 (Agent Visualizer Demo)" },
+        headers: { "User-Agent": "AgentWorkflowVisualizer/1.0" },
       });
       if (!response.ok) {
         return {

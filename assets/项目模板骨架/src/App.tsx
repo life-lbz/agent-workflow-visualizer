@@ -100,7 +100,7 @@ function App() {
     <div className="app-root">
       {/* 顶部栏 */}
       <header className="app-header">
-        <div className="app-logo">🚀 AgentFlow</div>
+        <div className="app-logo">🚀 Agent 可视化工作台</div>
         <div className="app-subtitle">AI Agent 全流程可视化工作台</div>
         <div className="scene-selector">
           <label>场景：</label>

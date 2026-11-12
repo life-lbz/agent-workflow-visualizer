@@ -1,11 +1,11 @@
 ---
-name: agent-flow-visualizer
+name: agent-workflow-visualizer
 description: Generate AI Agent workflow visualization frontend with single-agent and multi-agent DAG support. Use when the user asks for Agent flow UI, Agent execution teaching demo, tool-call visualization, or multi-agent collaboration display. Do not use for backend Agent execution logic or generic chat UI.
 ---
 
-# Agent Flow Visualizer
+# Agent Workflow Visualizer
 
-生成一个可直接运行的 AI Agent 执行过程可视化前端项目。支持单 Agent 和多 Agent DAG 协作，复刻 AgentFlow (lab.xiebq.com/agentflow) 的核心体验。
+生成一个可直接运行的 AI Agent 执行过程可视化前端项目。支持单 Agent 和多 Agent DAG 协作，把 Agent 的思考、工具调用、结果返回完整呈现在流程画布上。
 
 ## 触发条件
 
