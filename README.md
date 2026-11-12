@@ -9,7 +9,7 @@
 **触发场景：**
 
 - Agent 执行过程可视化、Agent 流程图界面
-- AI Agent 教学演示、执行链路回放
+- AI Agent 演示、执行链路回放
 - 工具调用（tool call）实时展示
 - 多 Agent 协作分工与委托关系展示
 
